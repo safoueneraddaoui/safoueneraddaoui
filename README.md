@@ -1,7 +1,8 @@
 <h1 align="center">Hellouu 👋, I'm Safouene Raddaoui</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-Profile Views : [![HitCount](http://hits.dwyl.com/safoueneraddaoui/safoueneraddaoui.svg)](http://hits.dwyl.com/safoueneraddaoui/safoueneraddaoui)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safoueneraddaoui" alt="safoueneraddaoui" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=safoueneraddaoui&show_icons=true">
 
 Here are some ideas to get you started:
 
