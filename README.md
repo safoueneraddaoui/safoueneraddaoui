@@ -1,5 +1,7 @@
-<h1 align="center">Hola 👋, I'm Safouene Raddaoui</h1>
+<h1 align="center">Hellouu 👋, I'm Safouene Raddaoui</h1>
 <h3 align="center">Software Engineering Student</h3>
+
+Profile Views : [![HitCount](http://hits.dwyl.com/safoueneraddaoui/safoueneraddaoui.svg)](http://hits.dwyl.com/safoueneraddaoui/safoueneraddaoui)
 
 Here are some ideas to get you started:
 
