@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**safoueneraddaoui/safoueneraddaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola 👋, I'm Safouene Raddaoui</h1>
+<h3 align="center">Software Engineering Student</h3>
 
 Here are some ideas to get you started:
 
